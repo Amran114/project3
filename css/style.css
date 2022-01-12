@@ -1,0 +1,96 @@
+body{
+    background: color #333;;
+    text-align: center;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    font-size: 1.1em;
+
+}
+    
+.info{
+    background-color:#333;
+    text-align:center;
+    color:#fff;
+    padding-bottom: 2em;
+    background-image: url(../css/images2/codes.jpg);
+    opacity:200%;
+
+
+
+    
+}
+   .develop{
+       background-color:#eaeaea;
+       text-align: center;
+       color:#333;
+       padding: 20px;
+       margin-right: 5px;
+       margin-top: 7px;
+       margin-left: 5px;
+
+    
+    
+    }
+    
+  
+   .lapeg{
+       background-color:#fff;
+       color:#333;
+       text-align: center;
+       padding: 2em;
+       
+    
+   }
+   .market{
+        background-color:#eaeaea;
+        color:#333;
+        text-align: center;
+        padding: 20px;
+        margin-top: 7px;
+    }
+     .digital{
+         background-color:#fff;
+         color:#333;
+         text-align: center;
+         padding: 20px;
+         margin-top: 7px;
+     }
+     #george{
+         background-color:cornflowerblue;
+         color: cornsilk;
+         text-align: center;
+         padding: 20px;
+         margin-top: 7px
+     }
+     .company{
+         background-color:rgb(32, 30, 30);
+         text-align: center;
+         padding: 20px;
+         margin-top: 7px;
+         color: #fff;
+     }
+     #footer{
+         background-color:black;
+         padding: 20px;
+         color: #fff;
+
+     }
+     #geo{padding: 10px;
+        background-color: transparent;
+
+     }
+     #geo a{
+        color: white;
+        font-size: 1.5em;
+        
+         text-decoration:none;}
+
+         
+     #geo:hover, a:hover{
+         background-color: white;
+         color: black;}
+         
+        
+
+    
